@@ -1,0 +1,22 @@
+Reflexión semana 5 — Las APIs y la comunicación comunitaria
+
+Las APIs representan una herramienta poderosa para que las comunidades
+puedan organizarse y compartir información de manera estructurada. En
+regiones como el Chocó, donde las distancias y las condiciones geográficas
+dificultan la comunicación, una API bien diseñada podría permitir que
+habitantes de distintas veredas reporten situaciones de emergencia, alerten
+sobre crecidas del río o informen sobre el estado de vías y servicios básicos,
+todo desde sus teléfonos celulares y sin necesidad de desplazarse.
+
+Lo importante de usar una API es que la información no llega de forma
+desordenada: cada reporte tiene una estructura definida, con campos claros,
+lo que facilita que las autoridades o líderes comunitarios puedan leerla,
+clasificarla y actuar a tiempo. También permite que diferentes aplicaciones
+o plataformas compartan esa información entre sí, por ejemplo conectando
+una aplicación móvil con un mapa o con un sistema de alertas tempranas.
+
+Aprender a crear rutas GET y POST esta semana me ayudó a entender cómo
+funciona esa comunicación entre el cliente y el servidor, que es la base
+de cualquier API. Siento que este conocimiento tiene un valor real para
+construir soluciones tecnológicas que respondan a las necesidades concretas
+de comunidades como la nuestra.
